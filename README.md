@@ -2,7 +2,7 @@
 ## Preview
 ![Game Preview](img/game_preview.gif)
 ## About
-A CLI implementation of the MiniMax algorithm in Tic Tac Toe without any external libraries in Python.
+A CLI implementation of the [MiniMax algorithm](https://en.wikipedia.org/wiki/Minimax) in Tic Tac Toe without any external libraries in Python.
 
 ## Running
 Clone/Download this repository, open up a terminal in it and run:
