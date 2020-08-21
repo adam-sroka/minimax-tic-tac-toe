@@ -1,6 +1,7 @@
 # MiniMax Tic Tac Toe :video_game:
 ## Preview
 <img width="40%" align="center" alt="Github" src="https://raw.githubusercontent.com/adam-sroka/minimax-tic-tac-toe/master/img/game_preview.gif" />
+
 ## About
 A CLI implementation of the [MiniMax algorithm](https://en.wikipedia.org/wiki/Minimax) in Tic Tac Toe without any external libraries in Python.
 
